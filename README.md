@@ -29,6 +29,6 @@ Users can enter a year (2005–2020) and visualize the **average monthly flight 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mohitphulwani001/airline-performance-dashboard.git
+git clone https://github.com/mohitphulwani/airline-performance-dashboard.git
 cd airline-performance-dashboard
 
